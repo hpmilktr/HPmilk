@@ -1,0 +1,138 @@
+DIV.ustcontainer {
+	MARGIN: 0px; WIDTH: 800px; BACKGROUND-COLOR: white
+}
+DIV.ustsol {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0em; FLOAT: left; PADDING-BOTTOM: 0em; MARGIN: 0px; WIDTH: 300px; PADDING-TOP: 0em
+}
+DIV.ustsag {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0em; FLOAT: right; PADDING-BOTTOM: 0em; MARGIN: 0px; WIDTH: 362px; PADDING-TOP: 0em
+}
+DIV.logo {
+	MARGIN: 0px; WIDTH: 800px; BACKGROUND-COLOR: white
+}
+DIV.menucontainer {
+	BACKGROUND-IMAGE: url(/images/menubackground.gif); MARGIN: 0px; VERTICAL-ALIGN: middle; WIDTH: 800px; HEIGHT: 30px
+}
+DIV.menusol {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: middle; WIDTH: 185px; PADDING-TOP: 5px; HEIGHT: 30px
+}
+DIV.menusag {
+	BORDER-RIGHT: 1px; BORDER-TOP: 1px; FLOAT: right; VERTICAL-ALIGN: middle; BORDER-LEFT: 1px; WIDTH: 585px; MARGIN-RIGHT: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: 1px
+}
+DIV.icerik {
+	MARGIN-LEFT: 5px; WIDTH: 740px; MARGIN-RIGHT: 5px
+}
+DIV.submenuhdr {
+	BORDER-RIGHT: #f0f0f0 thin solid; PADDING-RIGHT: 5px; BORDER-TOP: #f0f0f0 thin solid; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; BORDER-LEFT: #f0f0f0 thin solid; WIDTH: 160px; PADDING-TOP: 5px; BORDER-BOTTOM: #f0f0f0 thin solid
+}
+DIV.submenu {
+	BORDER-RIGHT: #3d5b00 thin solid; BORDER-TOP: #3d5b00 thin solid; MARGIN-TOP: 5px; FLOAT: left; BORDER-LEFT: #3d5b00 17px solid; WIDTH: 160px; BORDER-BOTTOM: #3d5b00 thin solid
+}
+DIV.icerik {
+	BORDER-RIGHT: #f0f0f0 2px solid; BORDER-TOP: #f0f0f0 2px solid; BORDER-LEFT: #f0f0f0 2px solid; WIDTH: 600px; BORDER-BOTTOM: #f0f0f0 2px solid
+}
+DIV.minimap {
+	PADDING-LEFT: 5px; WIDTH: 755px
+}
+A:link {
+	FONT: 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A:visited {
+	FONT: 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A:active {
+	FONT: 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A:hover {
+	FONT: 11px Tahoma; COLOR: black; TEXT-DECORATION: underline
+}
+A.linkmenu {
+	FONT: bold 11px Tahoma; COLOR: white; TEXT-DECORATION: none
+}
+A.linkmenu:visited {
+	FONT: bold 11px Tahoma; COLOR: white; TEXT-DECORATION: none
+}
+A.linkmenu:hover {
+	FONT: bold 11px Tahoma; COLOR: red; TEXT-DECORATION: none
+}
+A.link {
+	FONT: 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.link:visited {
+	FONT: 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.link:hover {
+	FONT: 11px Tahoma; COLOR: black; TEXT-DECORATION: underline
+}
+A.kalinlink {
+	FONT: bold 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.kalinlink:visited {
+	FONT: bold 11px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.kalinlink:hover {
+	FONT: bold 11px Tahoma; COLOR: black; TEXT-DECORATION: underline
+}
+A.icerikbaslik {
+	FONT: bold 17px Tahoma; COLOR: black; TEXT-DECORATION: none
+}
+A.icerikbaslik:visited {
+	FONT: bold 17px Tahoma; COLOR: black; TEXT-DECORATION: none
+}
+A.icerikbaslik:hover {
+	FONT: bold 17px Tahoma; COLOR: black; TEXT-DECORATION: underline
+}
+A.buyuk:link {
+	FONT: 17px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.buyuk:visited {
+	FONT: 17px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.buyuk:active {
+	FONT: 17px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.buyuk:hover {
+	FONT: 17px Tahoma; COLOR: black; TEXT-DECORATION: underline
+}
+A.minilink {
+	FONT: 9px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.minilink:visited {
+	FONT: 9px Tahoma; COLOR: gray; TEXT-DECORATION: none
+}
+A.minilink:hover {
+	FONT: 9px Tahoma; COLOR: black; TEXT-DECORATION: underline
+}
+.anasayfalisan {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; FONT-STYLE: normal; FONT-FAMILY: Arial; FONT-VARIANT: normal
+}
+.baslik {
+	FONT: bold 11px Tahoma; COLOR: black
+}
+.metin {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Tahoma; FONT-VARIANT: normal
+}
+.minimetin {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Tahoma; FONT-VARIANT: normal
+}
+.beyazmetin {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: white; FONT-STYLE: normal; FONT-FAMILY: Tahoma; FONT-VARIANT: normal
+}
+.sifre {
+	FONT: 10px Tahoma; COLOR: black
+}
+.tarih {
+	FONT: bold 11px Tahoma; COLOR: #006699; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.grimetin {
+	FONT: 11px Tahoma; COLOR: gray
+}
+.haber {
+	FONT: bold 26px Verdana; COLOR: #c0c0c0
+}
+H1.logo {
+	FONT-WEIGHT: bold; COLOR: #c0c0c0; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal
+}
+H1.bolumbaslik {
+	FONT: bold 11px Tahoma; COLOR: gray
+}
